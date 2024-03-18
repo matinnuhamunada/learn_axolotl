@@ -1,0 +1,5 @@
+bigslice_models.tar.gz
+data/
+.ipynb_checkpoints
+logs/
+*/.ipynb_checkpoints
